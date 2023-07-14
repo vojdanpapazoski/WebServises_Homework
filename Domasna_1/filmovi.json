@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Narcos",
+        "year": 2015,
+        "releasedYear": "28 Aug 2015",
+        "ratingIMDB": 8.9,
+        "metascore": 79
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "releasedYear": "07 Nov 2014",
+        "ratingIMDB": 8.6,
+        "metascore": 74
+    },
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "releasedYear": "18 Dec 2009",
+        "ratingIMDB": 7.9,
+        "metascore": 83
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "releasedYear": "25 Dec 2013",
+        "ratingIMDB": 8.2,
+        "metascore": 75
+    },
+    {
+        "title": "The Avengers",
+        "year": 2012,
+        "releasedYear": "04 May 2012",
+        "ratingIMDB": 8.1,
+        "metascore": 69
+    },
+    {
+        "title": "Game of Thrones",
+        "year": 2011,
+        "releasedYear": "17 Apr 2011",
+        "ratingIMDB": 9.5,
+        "metascore": 89
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "releasedYear": "16 Dec 2016",
+        "ratingIMDB": 9.0,
+        "metascore": 85
+    },
+    {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "releasedYear": "04 Nov 2016",
+        "ratingIMDB": 8.3,
+        "metascore": 79
+    },
+    {
+        "title": "Braking Bad",
+        "year": 2008,
+        "releasedYear": "20 Jan 2008",
+        "ratingIMDB": 9.5,
+        "metascore": 88
+    },
+    {
+        "title": "Gotham",
+        "year": 2014,
+        "releasedYear": "01 Aug 2014",
+        "ratingIMDB": 8.0,
+        "metascore": 81
+    },
+    {
+        "title": "300",
+        "year": 2006,
+        "releasedYear": "09 Mar 2007",
+        "ratingIMDB": 7.7,
+        "metascore": 52
+    }
+]
+
+
